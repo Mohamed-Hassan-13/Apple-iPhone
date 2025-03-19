@@ -7,7 +7,7 @@ import { yellowImg } from "../Utils";
 import * as THREE from "three";
 import { Canvas } from "@react-three/fiber";
 import { View } from "@react-three/drei";
-import { models, sizes } from "../constants";
+import { models, sizes } from "../Constants";
 import { animateWithGsapTimeline } from "../Utils/animations";
 
 const Model = () => {
